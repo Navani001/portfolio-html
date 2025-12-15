@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    background-color: #e0b5b5;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding: 2em 0em 1em 1em;
+    margin-bottom: 1em;
+}
+
+nav {
+    background-color: #d87ae7;
+    border: solid 1em #2372e1;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 1em;
+    display: block;
+}
+nav ul li a:hover {
+    background-color: #2372e1;
+    border-radius: 10px;
+}
+
+h2{
+    padding: 1rem;
+    margin: 1rem;
+    border:solid 0rem #2372e1;
+    border-radius: 0.5rem;
+    background-color: #f1f1f3;
+}
+ul li{
+    text-decoration: none;
+}
+.headerskill{
+    text-align: center;
+    color: #2372e1;
+    font-size: larger;
+
+}
+#skills ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    margin-top: 10px;
+    color: #2372e1;
+    font-size:30px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+#about{
+    padding: 1rem;
+
+}
+.hello{
+    font-size: 25px;
+    font-weight: bold;
+    color: #2372e1;
+}
+.Practitioner{
+    font-weight: bold;
+    color: #d87ae7;
+}
+
